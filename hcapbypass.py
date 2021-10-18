@@ -1,7 +1,6 @@
 from datetime import date, datetime
 import math
 import base64
-import httpx
 import urllib
 import hashlib
 from json import dumps
