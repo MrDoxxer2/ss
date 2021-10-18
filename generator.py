@@ -1,6 +1,5 @@
 from requests.models import Response
 from email_verificator import EmailVerifier
-from httpx import Client
 from discord_build_info_py import *
 from base64 import b64encode as b
 from hcapbypass import bypass
